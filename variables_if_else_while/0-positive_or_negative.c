@@ -11,7 +11,6 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 
-	// printf("here is number n %d----\n", n);
 	if (n > 0)
 	{
 		/* code */
